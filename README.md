@@ -2,8 +2,9 @@
 
 # :: Nentropy ::
 ##### Just another human. Spread out over a number of accounts.
-</div>
 ----------
+</div>
+
 
 <div align="center">
 <a href="https://orion-ai.dev">
@@ -41,7 +42,7 @@ Personal wanderings
 
 ------------------------------
 
-<div align="center">
+<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nentropy&layout=pie&dark=true)](https://github.com/anuraghazra/github-readme-stats)
 
