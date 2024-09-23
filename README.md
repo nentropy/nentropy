@@ -14,7 +14,7 @@
 
 -----------------------------
 
-<div align="left"">
+<div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn"/>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-</div>
+
 
 
 ------------------------------
@@ -36,13 +36,12 @@ Finding sufficiently difficult things to explore
 
 Semi autonomous threat hunting platform.
 
-:: ☄️ [![Infinitely Curious]("https://www.github.com/snyata") :: (Personal mainly)
+## :: ☄️ [![Infinitely Curious]("https://www.github.com/snyata") :: (Personal mainly)
 
 Personal wanderings
 
 ------------------------------
 
-<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nentropy&layout=pie&dark=true)](https://github.com/anuraghazra/github-readme-stats)
 
