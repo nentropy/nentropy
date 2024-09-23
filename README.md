@@ -5,11 +5,9 @@
 
 ----------
 
-<a href="https://github.com/piyushsuthar/github-readme-quotes&border=true&theme=algolia">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+<a href="https://orion-ai.dev">
+  <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia&quote=%22Attending%20the%20Shenanigans%0A%0A-%20will%20return%20presently%22" alt="Readme Quotes">
 </a>
-
-</div>
 
 
 
@@ -37,8 +35,11 @@
 
 ------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nentropic-0x0a&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nentropy&layout=pie&dark=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 
