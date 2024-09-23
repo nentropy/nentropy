@@ -28,17 +28,17 @@
 ------------------------------
 🤔🤔🤔
 
-## :: 🥷 [![Nentropic Research]("https://www.github.com/Nentropic-0x0") ::
+## :: 🥷 [!Nentropic Research]("https://www.github.com/Nentropic-0x0") ::
 
 Finding sufficiently difficult things to explore
 
-## :: 👾 [![Orion Threat Platform]("https://www.github.com/orion-constellation") ::
+## :: 👾 [!Orion Threat Platform]("https://www.github.com/orion-constellation") ::
 
 Semi autonomous threat hunting platform.
 
-## :: ☄️ [![Infinitely Curious]("https://www.github.com/snyata") :: (Personal mainly)
+## :: ☄️ [!Infinitely Curious]("https://www.github.com/snyata") :: (Personal mainly)
 
-Personal wanderings
+Personal wanderings around whatever seems interesting and fun.
 
 ------------------------------
 
