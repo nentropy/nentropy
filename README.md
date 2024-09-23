@@ -1,19 +1,19 @@
 <div align="center">
 
 # :: Nentropy ::
-##### Spread out all over the place looking for fun things to do.
-
+##### Just another human. Spread out over a number of accounts.
+</div>
 ----------
 
+<div align="center">
 <a href="https://orion-ai.dev">
   <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia&quote=%22Attending%20the%20Shenanigans%0A%0A-%20will%20return%20presently%22" alt="Readme Quotes">
 </a>
-
-
+</div>
 
 -----------------------------
 
-<div align="center">
+<div align="left"">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn"/>
@@ -25,13 +25,19 @@
 
 
 ------------------------------
+🤔🤔🤔
 
-## Current Projects:
-:: 👾 [![Orion Threat Platform]("https://www.github.com/orion-constellation") ::
+## :: 🥷 [![Nentropic Research]("https://www.github.com/Nentropic-0x0") ::
 
-:: 🥷 [![Nentropic Research]("https://www.github.com/Nentropic-0x0") ::
+Finding sufficiently difficult things to explore
+
+## :: 👾 [![Orion Threat Platform]("https://www.github.com/orion-constellation") ::
+
+Semi autonomous threat hunting platform.
 
 :: ☄️ [![Infinitely Curious]("https://www.github.com/snyata") :: (Personal mainly)
+
+Personal wanderings
 
 ------------------------------
 
